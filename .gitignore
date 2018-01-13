@@ -1,0 +1,5 @@
+.idea
+*.pyc
+Virtualenv
+dist/
+lz4_checkpoints.egg-info/
